@@ -1,0 +1,22 @@
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers temporaires de l'application
+_temp_convert.png
+
+# Dossier de build PyInstaller (régénéré via build_exe.py)
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
