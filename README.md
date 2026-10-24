@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-12.2%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Release](https://img.shields.io/github/v/release/SnegOwo/Soda-Machine)](https://github.com/SnegOwo/Soda-Machine/releases/latest)
 
 ---
 
