@@ -113,5 +113,6 @@ Common limits: max 65535×65535 dimensions, slower than PNG/JPEG (LZMA), non-sta
 Under the [MIT License](LICENSE).
 
 <div align="center">
-  <sub>Built with ❤️ using Python, Pillow, and NumPy</sub>
+  <sub>Built with ❤️ using Python, Pillow, and NumPy</sub><br>
+  <sub>Repository: <a href="https://github.com/SnegOwo/Soda-Machine">https://github.com/SnegOwo/Soda-Machine</a></sub>
 </div>
