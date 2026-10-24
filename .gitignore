@@ -16,6 +16,9 @@ _temp_convert.png
 # Dossier de build PyInstaller (régénéré via build_exe.py)
 build/
 
+# Pre-compiled executables (build artifact, not committed)
+dist/
+
 # IDE
 .vscode/
 .idea/
